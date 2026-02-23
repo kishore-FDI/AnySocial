@@ -58,6 +58,7 @@ WRITE_EXTERNAL_STORAGE (legacy devices)
 * Android SDK
 * Python
 * YT-DLP
+* FFMPEG
 * Instaloader
 
 ## Installation
