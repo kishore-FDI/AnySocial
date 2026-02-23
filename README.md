@@ -71,6 +71,3 @@ Sync Gradle
 Build
 Install APK
 
-
-```
-```
